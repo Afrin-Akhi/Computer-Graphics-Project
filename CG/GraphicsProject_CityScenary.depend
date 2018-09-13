@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1524998693 source:c:\users\maisha\downloads\sem 10\graphics\mid\graphicsproject_cityscenary\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1525045214 source:d:\aiub  cse\10th semester\graphics\graphicsproject_cityscenary-20180429t132723z-001\graphicsproject_cityscenary\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<Windows.h>
+	<MMSystem.h>
+	"imageloader.h"
+
+1524993555 source:d:\aiub  cse\10th semester\graphics\graphicsproject_cityscenary-20180429t132723z-001\graphicsproject_cityscenary\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
